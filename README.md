@@ -43,8 +43,8 @@ I'm working on personal projects to sharpen my skills and showcase my abilities.
 
 ## 📫 Contact Me
 
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/pranav-chanagond-aa01b219a/))
-- Email: [Your Email Address](pranav.ssc@gmail.com)
+- LinkedIn:[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/pranav-chanagond-aa01b219a/)
+- Email: [pranav.ssc@gmail.com](pranav.ssc@gmail.com)
 
 ![Contact](https://your-github-repo-url.com/contact-image.jpg)
 
