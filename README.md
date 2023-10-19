@@ -7,16 +7,16 @@ Welcome to my GitHub profile! I'm a passionate and motivated Java Full Stack Dev
 ## 🔨 Skills
 
 - **Programming Languages**: 
-  ![Java](https://your-github-repo-url.com/java-logo.png) ![JavaScript](https://your-github-repo-url.com/javascript-logo.png)
+  ![Java](https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/java.png) ![JavaScript](https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/js.gif)
 - **Front-end Development**: 
-  ![React.js](https://your-github-repo-url.com/react-logo.png) ![HTML](https://your-github-repo-url.com/html-logo.png) ![CSS](https://your-github-repo-url.com/css-logo.png)
+  ![React.js](https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/react.gif) ![HTML](https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/HTML_CIRCLE.gif) ![CSS](https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/css.gif)
 - **Back-end Development**: 
-  ![Spring Boot](https://your-github-repo-url.com/spring-logo.png) ![Node.js](https://your-github-repo-url.com/node-logo.png)
-- **Database Management**: SQL
-- **Version Control**: Git
-- **Tools & Technologies**: VS Code, IntelliJ IDEA, Git, GitHub
+  ![Spring Boot](https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/spring.gif)
+- **Database Management**: ![SQL](https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/sql.jpg)
+- **Version Control**: ![Git](https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/git.gif)
+- **Tools & Technologies**: ![VS Code](https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/vs%20code.gif), ![IntelliJ IDEA](https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/intellij.gif)
 
-![Learning](https://your-github-repo-url.com/learning-image.jpg)
+![Learning](https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/Learning.gif)
 
 ## 🌱 Currently Learning
 
@@ -27,26 +27,20 @@ I'm constantly seeking opportunities to expand my knowledge and skills. I'm curr
 - Improving my problem-solving abilities
 - Exploring best practices in software development
 
-![Learning](https://your-github-repo-url.com/learning-image.jpg)
-
 ## 💼 Work Experience
 
 As a fresher, I'm eager to embark on my professional journey and contribute to innovative projects. I'm open to exciting opportunities that allow me to apply my skills and learn from experienced developers.
 
-![Work](https://your-github-repo-url.com/work-image.jpg)
-
 ## 🚀 Projects
 
 I'm working on personal projects to sharpen my skills and showcase my abilities. Stay tuned for some exciting web applications built with React.js and Java!
-
-![Projects](https://your-github-repo-url.com/projects-image.jpg)
 
 ## 📫 Contact Me
 
 - LinkedIn: [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/pranav-chanagond-aa01b219a/)
 - Email: [pranav.ssc@gmail.com](pranav.ssc@gmail.com)
 
-![Contact](https://your-github-repo-url.com/contact-image.jpg)
+![Contact](https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/Contact.webp)
 
 Feel free to connect with me on LinkedIn or reach out via email if you'd like to collaborate or discuss potential opportunities.
 
