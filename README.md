@@ -40,7 +40,8 @@ I'm working on personal projects to sharpen my skills and showcase my abilities.
 - LinkedIn: [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/pranav-chanagond-aa01b219a/)
 - Email: [pranav.ssc@gmail.com](pranav.ssc@gmail.com)
 
-![Contact](https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/Contact.webp)
+<img src="https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/Contact.webp" width="150">
+
 
 Feel free to connect with me on LinkedIn or reach out via email if you'd like to collaborate or discuss potential opportunities.
 
