@@ -7,14 +7,14 @@ Welcome to my GitHub profile! I'm a passionate and motivated Java Full Stack Dev
 ## 🔨 Skills
 
 - **Programming Languages**: 
-  ![Java](https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/java.png) ![JavaScript](https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/js.gif)
+  <img src="https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/java.png" width="40"> <img src="https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/js.gif" width="40">
 - **Front-end Development**: 
-  ![React.js](https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/react.gif) ![HTML](https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/HTML_CIRCLE.gif) ![CSS](https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/css.gif)
+  <img src="https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/react.gif" width="40"> <img src="https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/HTML_CIRCLE.gif" width="40"> <img src="https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/css.gif" width="40">
 - **Back-end Development**: 
-  ![Spring Boot](https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/spring.gif)
-- **Database Management**: ![SQL](https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/sql.jpg)
-- **Version Control**: ![Git](https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/git.gif)
-- **Tools & Technologies**: ![VS Code](https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/vs%20code.gif), ![IntelliJ IDEA](https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/intellij.gif)
+  <img src="https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/spring.gif" width="40">
+- **Database Management**: <img src="https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/sql.jpg" width="40">
+- **Version Control**: <img src="https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/git.gif" width="40">
+- **Tools & Technologies**: <img src="https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/vs%20code.gif" width="40"> <img src="https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/intellij.gif" width="40">
 
 ![Learning](https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/Learning.gif)
 
