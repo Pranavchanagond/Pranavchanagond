@@ -12,10 +12,9 @@ Welcome to my GitHub profile! I'm a passionate and motivated Java Full Stack Dev
   ![React.js](https://your-github-repo-url.com/react-logo.png) ![HTML](https://your-github-repo-url.com/html-logo.png) ![CSS](https://your-github-repo-url.com/css-logo.png)
 - **Back-end Development**: 
   ![Spring Boot](https://your-github-repo-url.com/spring-logo.png) ![Node.js](https://your-github-repo-url.com/node-logo.png)
-- **Database Management**: SQL, NoSQL
+- **Database Management**: SQL
 - **Version Control**: Git
 - **Tools & Technologies**: VS Code, IntelliJ IDEA, Git, GitHub
-- **Software Development Lifecycle**: Agile, Scrum
 
 ![Learning](https://your-github-repo-url.com/learning-image.jpg)
 
@@ -23,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate and motivated Java Full Stack Dev
 
 I'm constantly seeking opportunities to expand my knowledge and skills. I'm currently focused on enhancing my expertise in:
 
-- Advanced React.js concepts
+- React.js concepts
 - Building RESTful APIs with Spring Boot
 - Improving my problem-solving abilities
 - Exploring best practices in software development
@@ -44,8 +43,8 @@ I'm working on personal projects to sharpen my skills and showcase my abilities.
 
 ## 📫 Contact Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Email: [Your Email Address](mailto:youremail@example.com)
+- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/pranav-chanagond-aa01b219a/))
+- Email: [Your Email Address](pranav.ssc@gmail.com)
 
 ![Contact](https://your-github-repo-url.com/contact-image.jpg)
 
