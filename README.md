@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate and motivated Java Full Stack Developer, currently in the early stages of my career, with a strong interest in React.js. I'm excited about building robust and user-friendly web applications.
 
-[![GitHub Header](https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/header-image.jpg)
+![GitHub Header](https://github.com/Pranavchanagond/Pranavchanagond/blob/main/img/header-image.jpg)
 
 ## 🔨 Skills
 
